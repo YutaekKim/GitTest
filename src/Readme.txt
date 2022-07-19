@@ -6,4 +6,6 @@
 
 3. master로 체크아웃하고 머지하기
 
-4. hint-100 branch context
+4. develop branchd에서 hint-100, hint-101 branch생성
+
+5. hint-100 branch context
